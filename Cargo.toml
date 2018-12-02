@@ -5,6 +5,6 @@ name = "aoc2018-02"
 version = "0.1.0"
 authors = ["jsen- <max.enhanced@gmail.com>"]
 edition = "2018"
-default-run = "02"
+default-run = "03"
 
 [dependencies]
