@@ -8,3 +8,4 @@ edition = "2018"
 default-run = "03"
 
 [dependencies]
+combine = "3.6.3"
